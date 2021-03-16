@@ -1,0 +1,15 @@
+{
+  "name": "vuejs-api-call",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "develop": "gridsome develop",
+    "build": "gridsome build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gridsome": "^0.7.23"
+  }
+}
